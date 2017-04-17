@@ -20,7 +20,7 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "肥松鼠";
-            label2.Text = "tp6m6wu/6";
+            label2.Text = "陳";
         }
 
         private void Form1_Load(object sender, EventArgs e)
